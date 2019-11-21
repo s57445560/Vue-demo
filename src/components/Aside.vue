@@ -6,7 +6,8 @@
                  active-text-color="#ffd04b"
                  router
                  unique-opened
-                 style="position: absolute;bottom: 0;top:60px;width: 200px;left: 0px;">
+                 style="position: absolute;bottom: 0;top:60px;width: 200px;left: 0px;"
+                 align="left">
             <el-menu-item index="/">
                     <i class="el-icon-menu"></i>
                     <span slot="title">首页信息</span>
